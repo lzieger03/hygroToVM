@@ -1,0 +1,17 @@
+{
+    "metric": {
+        "__name__": "storage_data",
+        "alias": "storage_data",
+        "app": "storage",
+        "component": "nemesis",
+        "job": "backfilling",
+        "mam_dc": "bs",
+        "mam_stage": "qa",
+        "tenant": "mailcore",
+        "type": ""
+    },
+    "timestamps": [
+    ],
+    "values": [
+    ]
+}
